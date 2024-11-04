@@ -3,10 +3,10 @@
 ## Overview
 FinFolk-AI is a project designed to provide personalized financial advice through an AI-powered chatbot. It aims to help users make informed financial decisions by leveraging advanced AI technology to deliver customized investment guidance and financial planning recommendations.
 
-## Features
+<!-- ## Features
 - Feature 1: [Description of feature 1]
 - Feature 2: [Description of feature 2]
-- Feature 3: [Description of feature 3]
+- Feature 3: [Description of feature 3] -->
 
 ## Installation
 To install FinFolk-AI, follow these steps:
