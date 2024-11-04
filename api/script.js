@@ -1,10 +1,9 @@
-import { config } from "dotenv";
-config();
+import 'dotenv/config'
 
-import OpenAI from "openai/index.mjs";
+import OpenAI from "openai";
 
 const openai = new OpenAI({
-    //  Put your API key here
+    // eslint-disable-next-line no-undef
     apiKey: process.env.API_KEY,
 });
 
