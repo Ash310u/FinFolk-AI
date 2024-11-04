@@ -4,6 +4,7 @@ config();
 import OpenAI from "openai/index.mjs";
 
 const openai = new OpenAI({
+    //  Put your API key here
     apiKey: process.env.API_KEY,
 });
 

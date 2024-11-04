@@ -1,15 +1,15 @@
 {
-  "name": "fin_tech_a_chance",
+  "name": "finfolk_ai",
   "version": "1.0.0",
+  "description": "## Overview FinFolk-AI is a project designed to provide personalized financial advice through an AI-powered chatbot. It aims to help users make informed financial decisions by leveraging advanced AI technology to deliver customized investment guidance and financial planning recommendations.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node script.js"
+    "dev": "node api/script.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "dotenv": "^16.4.5",
     "openai": "^4.70.2"
