@@ -4,7 +4,7 @@ import OpenAI from "openai";
 
 const openai = new OpenAI({
     // eslint-disable-next-line no-undef
-    apiKey: process.env.API_KEY,
+    apiKey: process.env.API_KEY, // Add your API key here
 });
 
 const completion = await openai.chat.completions.create({
